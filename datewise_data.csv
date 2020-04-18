@@ -1,0 +1,1315 @@
+Date,State,Confirmed,Recovered,Deaths
+2020-03-14,Kerala,19,3,0
+2020-03-14,Haryana,14,0,0
+2020-03-14,Maharashtra,14,0,0
+2020-03-14,Uttar Pradesh,12,5,0
+2020-03-14,Delhi,7,1,1
+2020-03-14,Karnataka,6,0,1
+2020-03-14,Jammu and Kashmir,5,0,0
+2020-03-14,Rajasthan,3,1,0
+2020-03-14,Andhra Pradesh,1,0,0
+2020-03-14,Punjab,1,0,0
+2020-03-14,Tamil Nadu,1,0,0
+2020-03-14,Telangana,1,0,0
+2020-03-14,Assam,0,0,0
+2020-03-14,Bihar,0,0,0
+2020-03-14,Gujarat,0,0,0
+2020-03-14,Meghalaya,0,0,0
+2020-03-14,Madhya Pradesh,0,0,0
+2020-03-14,Odisha,0,0,0
+2020-03-14,Puducherry,0,0,0
+2020-03-14,Tripura,0,0,0
+2020-03-14,West Bengal,0,0,0
+2020-03-14,Goa,0,0,0
+2020-03-14,Arunachal Pradesh,0,0,0
+2020-03-14,Chhattisgarh,0,0,0
+2020-03-14,Himachal Pradesh,0,0,0
+2020-03-14,Jharkhand,0,0,0
+2020-03-14,Manipur,0,0,0
+2020-03-14,Mizoram,0,0,0
+2020-03-14,Nagaland,0,0,0
+2020-03-14,Sikkim,0,0,0
+2020-03-14,Uttarakhand,0,0,0
+2020-03-14,Chandigarh,0,0,0
+2020-03-14,Dadra and Nagar Haveli,0,0,0
+2020-03-14,Daman and Diu,0,0,0
+2020-03-14,Lakshadweep,0,0,0
+2020-03-15,Maharashtra,31,0,0
+2020-03-15,Kerala,24,3,0
+2020-03-15,Haryana,14,0,0
+2020-03-15,Uttar Pradesh,12,4,0
+2020-03-15,Delhi,7,2,1
+2020-03-15,Karnataka,6,0,1
+2020-03-15,Jammu and Kashmir,5,0,0
+2020-03-15,Rajasthan,4,0,0
+2020-03-15,Telangana,3,1,0
+2020-03-15,Andhra Pradesh,1,0,0
+2020-03-15,Punjab,1,0,0
+2020-03-15,Tamil Nadu,1,0,0
+2020-03-15,Andaman and Nicobar Islands,0,0,0
+2020-03-15,Assam,0,0,0
+2020-03-15,Bihar,0,0,0
+2020-03-15,Gujarat,0,0,0
+2020-03-15,Meghalaya,0,0,0
+2020-03-15,Madhya Pradesh,0,0,0
+2020-03-15,Odisha,0,0,0
+2020-03-15,Puducherry,0,0,0
+2020-03-15,Tripura,0,0,0
+2020-03-15,West Bengal,0,0,0
+2020-03-15,Goa,0,0,0
+2020-03-15,Arunachal Pradesh,0,0,0
+2020-03-15,Chhattisgarh,0,0,0
+2020-03-15,Himachal Pradesh,0,0,0
+2020-03-15,Jharkhand,0,0,0
+2020-03-15,Manipur,0,0,0
+2020-03-15,Mizoram,0,0,0
+2020-03-15,Nagaland,0,0,0
+2020-03-15,Sikkim,0,0,0
+2020-03-15,Uttarakhand,1,0,0
+2020-03-15,Chandigarh,0,0,0
+2020-03-15,Dadra and Nagar Haveli,0,0,0
+2020-03-15,Daman and Diu,0,0,0
+2020-03-15,Lakshadweep,0,0,0
+2020-03-16,Maharashtra,38,0,0
+2020-03-16,Kerala,24,3,0
+2020-03-16,Haryana,14,0,0
+2020-03-16,Uttar Pradesh,13,4,0
+2020-03-16,Delhi,7,2,1
+2020-03-16,Karnataka,7,0,1
+2020-03-16,Jammu and Kashmir,5,0,0
+2020-03-16,Rajasthan,4,3,0
+2020-03-16,Telangana,3,1,0
+2020-03-16,Andhra Pradesh,1,0,0
+2020-03-16,Punjab,1,0,0
+2020-03-16,Tamil Nadu,1,1,0
+2020-03-16,Assam,0,0,0
+2020-03-16,Bihar,0,0,0
+2020-03-16,Gujarat,0,0,0
+2020-03-16,Meghalaya,0,0,0
+2020-03-16,Madhya Pradesh,0,0,0
+2020-03-16,Odisha,1,0,0
+2020-03-16,Puducherry,0,0,0
+2020-03-16,Tripura,0,0,0
+2020-03-16,West Bengal,0,0,0
+2020-03-16,Goa,0,0,0
+2020-03-16,Arunachal Pradesh,0,0,0
+2020-03-16,Chhattisgarh,0,0,0
+2020-03-16,Himachal Pradesh,0,0,0
+2020-03-16,Jharkhand,0,0,0
+2020-03-16,Manipur,0,0,0
+2020-03-16,Mizoram,0,0,0
+2020-03-16,Nagaland,0,0,0
+2020-03-16,Sikkim,0,0,0
+2020-03-16,Uttarakhand,1,0,0
+2020-03-16,Chandigarh,0,0,0
+2020-03-16,Dadra and Nagar Haveli,0,0,0
+2020-03-16,Daman and Diu,0,0,0
+2020-03-17,Maharashtra,41,0,1
+2020-03-17,Kerala,27,3,0
+2020-03-17,Haryana,15,0,0
+2020-03-17,Uttar Pradesh,15,5,0
+2020-03-17,Karnataka,11,0,1
+2020-03-17,Jammu and Kashmir,9,0,0
+2020-03-17,Delhi,8,2,1
+2020-03-17,Telangana,5,1,0
+2020-03-17,Rajasthan,4,3,0
+2020-03-17,Andhra Pradesh,1,0,0
+2020-03-17,Punjab,1,0,0
+2020-03-17,Tamil Nadu,1,1,0
+2020-03-17,Odisha,1,0,0
+2020-03-17,Uttarakhand,1,0,0
+2020-03-17,Puducherry,1,0,0
+2020-03-17,Assam,0,0,0
+2020-03-17,Bihar,0,0,0
+2020-03-17,Gujarat,0,0,0
+2020-03-17,Meghalaya,0,0,0
+2020-03-17,Madhya Pradesh,0,0,0
+2020-03-17,Tripura,0,0,0
+2020-03-17,West Bengal,1,0,0
+2020-03-17,Goa,0,0,0
+2020-03-17,Arunachal Pradesh,0,0,0
+2020-03-17,Chhattisgarh,0,0,0
+2020-03-17,Himachal Pradesh,0,0,0
+2020-03-17,Jharkhand,0,0,0
+2020-03-17,Manipur,0,0,0
+2020-03-17,Mizoram,0,0,0
+2020-03-17,Nagaland,0,0,0
+2020-03-17,Sikkim,0,0,0
+2020-03-17,Chandigarh,0,0,0
+2020-03-17,Dadra and Nagar Haveli,0,0,0
+2020-03-17,Daman and Diu,0,0,0
+2020-03-18,Maharashtra,43,0,1
+2020-03-18,Kerala,27,3,0
+2020-03-18,Haryana,16,0,0
+2020-03-18,Uttar Pradesh,17,5,0
+2020-03-18,Karnataka,14,0,1
+2020-03-18,Jammu and Kashmir,11,0,0
+2020-03-18,Delhi,10,2,1
+2020-03-18,Telangana,6,1,0
+2020-03-18,Rajasthan,4,3,0
+2020-03-18,Andhra Pradesh,1,0,0
+2020-03-18,Punjab,1,0,0
+2020-03-18,Tamil Nadu,2,1,0
+2020-03-18,Odisha,1,0,0
+2020-03-18,Uttarakhand,1,0,0
+2020-03-18,Puducherry,1,0,0
+2020-03-18,West Bengal,1,0,0
+2020-03-18,Assam,0,0,0
+2020-03-18,Bihar,0,0,0
+2020-03-18,Gujarat,0,0,0
+2020-03-18,Meghalaya,0,0,0
+2020-03-18,Madhya Pradesh,0,0,0
+2020-03-18,Tripura,0,0,0
+2020-03-18,Goa,0,0,0
+2020-03-18,Arunachal Pradesh,0,0,0
+2020-03-18,Chhattisgarh,0,0,0
+2020-03-18,Himachal Pradesh,0,0,0
+2020-03-18,Jharkhand,0,0,0
+2020-03-18,Manipur,0,0,0
+2020-03-18,Mizoram,0,0,0
+2020-03-18,Nagaland,0,0,0
+2020-03-18,Sikkim,0,0,0
+2020-03-18,Chandigarh,0,0,0
+2020-03-18,Dadra and Nagar Haveli,0,0,0
+2020-03-18,Daman and Diu,0,0,0
+2020-03-18,Lakshadweep,0,0,0
+2020-03-19,Maharashtra,49,0,1
+2020-03-19,Kerala,28,3,0
+2020-03-19,Uttar Pradesh,20,5,0
+2020-03-19,Haryana,17,0,0
+2020-03-19,Karnataka,15,0,1
+2020-03-19,Telangana,13,1,0
+2020-03-19,Delhi,11,2,1
+2020-03-19,Ladakh,8,0,0
+2020-03-19,Rajasthan,7,3,0
+2020-03-19,Jammu and Kashmir,4,0,0
+2020-03-19,Tamil Nadu,3,1,0
+2020-03-19,Andhra Pradesh,2,0,0
+2020-03-19,Punjab,2,0,1
+2020-03-19,Odisha,1,0,0
+2020-03-19,Uttarakhand,1,0,0
+2020-03-19,Puducherry,1,0,0
+2020-03-19,West Bengal,1,0,0
+2020-03-19,Assam,0,0,0
+2020-03-19,Bihar,0,0,0
+2020-03-19,Gujarat,2,0,0
+2020-03-19,Meghalaya,0,0,0
+2020-03-19,Madhya Pradesh,0,0,0
+2020-03-19,Tripura,0,0,0
+2020-03-19,Goa,0,0,0
+2020-03-19,Arunachal Pradesh,0,0,0
+2020-03-19,Chhattisgarh,1,0,0
+2020-03-19,Himachal Pradesh,0,0,0
+2020-03-19,Jharkhand,0,0,0
+2020-03-19,Manipur,0,0,0
+2020-03-19,Mizoram,0,0,0
+2020-03-19,Nagaland,0,0,0
+2020-03-19,Sikkim,0,0,0
+2020-03-19,Chandigarh,1,0,0
+2020-03-19,Dadra and Nagar Haveli,0,0,0
+2020-03-19,Daman and Diu,0,0,0
+2020-03-20,Maharashtra,52,0,1
+2020-03-20,Kerala,40,3,0
+2020-03-20,Uttar Pradesh,24,9,0
+2020-03-20,Rajasthan,17,3,0
+2020-03-20,Telangana,19,1,0
+2020-03-20,Haryana,19,0,0
+2020-03-20,Delhi,20,5,1
+2020-03-20,Karnataka,15,1,1
+2020-03-20,Ladakh,10,0,0
+2020-03-20,Gujarat,7,0,0
+2020-03-20,Chandigarh,5,0,0
+2020-03-20,Jammu and Kashmir,4,0,0
+2020-03-20,Madhya Pradesh,4,0,0
+2020-03-20,Tamil Nadu,3,1,0
+2020-03-20,Uttarakhand,3,0,0
+2020-03-20,Andhra Pradesh,3,0,0
+2020-03-20,Punjab,3,0,1
+2020-03-20,Odisha,2,0,0
+2020-03-20,West Bengal,2,0,0
+2020-03-20,Himachal Pradesh,2,0,0
+2020-03-20,Puducherry,1,0,0
+2020-03-20,Chhattisgarh,1,0,0
+2020-03-20,Assam,0,0,0
+2020-03-20,Bihar,0,0,0
+2020-03-20,Meghalaya,0,0,0
+2020-03-20,Tripura,0,0,0
+2020-03-20,Goa,0,0,0
+2020-03-20,Arunachal Pradesh,0,0,0
+2020-03-20,Jharkhand,0,0,0
+2020-03-20,Manipur,0,0,0
+2020-03-20,Mizoram,0,0,0
+2020-03-20,Nagaland,0,0,0
+2020-03-20,Sikkim,0,0,0
+2020-03-20,Dadra and Nagar Haveli,0,0,0
+2020-03-20,Daman and Diu,0,0,0
+2020-03-21,Maharashtra,64,0,1
+2020-03-21,Kerala,52,3,0
+2020-03-21,Delhi,26,5,1
+2020-03-21,Uttar Pradesh,26,9,0
+2020-03-21,Rajasthan,24,3,0
+2020-03-21,Haryana,21,0,0
+2020-03-21,Telangana,21,1,0
+2020-03-21,Karnataka,20,1,1
+2020-03-21,Ladakh,13,0,0
+2020-03-21,Gujarat,14,0,0
+2020-03-21,Punjab,13,0,1
+2020-03-21,Chandigarh,5,0,0
+2020-03-21,Jammu and Kashmir,4,0,0
+2020-03-21,Madhya Pradesh,4,0,0
+2020-03-21,Tamil Nadu,6,1,0
+2020-03-21,Uttarakhand,3,0,0
+2020-03-21,Andhra Pradesh,3,0,0
+2020-03-21,West Bengal,4,0,0
+2020-03-21,Odisha,2,0,0
+2020-03-21,Himachal Pradesh,2,0,0
+2020-03-21,Puducherry,1,0,0
+2020-03-21,Chhattisgarh,1,0,0
+2020-03-21,Assam,0,0,0
+2020-03-21,Bihar,0,0,0
+2020-03-21,Meghalaya,0,0,0
+2020-03-21,Tripura,0,0,0
+2020-03-21,Goa,0,0,0
+2020-03-21,Arunachal Pradesh,0,0,0
+2020-03-21,Jharkhand,0,0,0
+2020-03-21,Manipur,0,0,0
+2020-03-21,Mizoram,0,0,0
+2020-03-21,Nagaland,0,0,0
+2020-03-21,Sikkim,0,0,0
+2020-03-21,Dadra and Nagar Haveli,0,0,0
+2020-03-21,Daman and Diu,0,0,0
+2020-03-21,Lakshadweep,0,0,0
+2020-03-22,Maharashtra,74,0,2
+2020-03-22,Kerala,67,3,0
+2020-03-22,Uttar Pradesh,30,9,0
+2020-03-22,Delhi,27,5,1
+2020-03-22,Telangana,27,1,0
+2020-03-22,Karnataka,26,1,1
+2020-03-22,Rajasthan,28,3,0
+2020-03-22,Haryana,21,0,0
+2020-03-22,Punjab,21,0,1
+2020-03-22,Gujarat,18,0,1
+2020-03-22,Ladakh,13,0,0
+2020-03-22,Tamil Nadu,9,1,0
+2020-03-22,West Bengal,7,0,0
+2020-03-22,Chandigarh,6,0,0
+2020-03-22,Madhya Pradesh,6,0,0
+2020-03-22,Andhra Pradesh,6,0,0
+2020-03-22,Jammu and Kashmir,4,0,0
+2020-03-22,Uttarakhand,3,0,0
+2020-03-22,Odisha,2,0,0
+2020-03-22,Himachal Pradesh,2,0,0
+2020-03-22,Bihar,2,0,1
+2020-03-22,Puducherry,1,0,0
+2020-03-22,Chhattisgarh,1,0,0
+2020-03-22,Assam,0,0,0
+2020-03-22,Meghalaya,0,0,0
+2020-03-22,Tripura,0,0,0
+2020-03-22,Goa,0,0,0
+2020-03-22,Arunachal Pradesh,0,0,0
+2020-03-22,Jharkhand,0,0,0
+2020-03-22,Manipur,0,0,0
+2020-03-22,Mizoram,0,0,0
+2020-03-22,Nagaland,0,0,0
+2020-03-22,Sikkim,0,0,0
+2020-03-22,Dadra and Nagar Haveli,0,0,0
+2020-03-22,Daman and Diu,0,0,0
+2020-03-22,Lakshadweep,0,0,0
+2020-03-23,Maharashtra,97,0,2
+2020-03-23,Kerala,95,4,0
+2020-03-23,Uttar Pradesh,32,9,0
+2020-03-23,Rajasthan,29,3,0
+2020-03-23,Delhi,30,5,1
+2020-03-23,Telangana,33,1,0
+2020-03-23,Karnataka,33,2,1
+2020-03-23,Haryana,22,0,0
+2020-03-23,Punjab,21,0,1
+2020-03-23,Gujarat,30,0,1
+2020-03-23,Ladakh,13,0,0
+2020-03-23,Tamil Nadu,9,1,0
+2020-03-23,West Bengal,7,0,1
+2020-03-23,Chandigarh,7,0,0
+2020-03-23,Madhya Pradesh,6,0,0
+2020-03-23,Andhra Pradesh,6,0,0
+2020-03-23,Jammu and Kashmir,4,0,0
+2020-03-23,Uttarakhand,4,0,0
+2020-03-23,Odisha,2,0,0
+2020-03-23,Himachal Pradesh,2,0,0
+2020-03-23,Bihar,2,0,1
+2020-03-23,Puducherry,1,0,0
+2020-03-23,Chhattisgarh,1,0,0
+2020-03-23,Assam,0,0,0
+2020-03-23,Meghalaya,0,0,0
+2020-03-23,Tripura,0,0,0
+2020-03-23,Goa,0,0,0
+2020-03-23,Arunachal Pradesh,0,0,0
+2020-03-23,Jharkhand,0,0,0
+2020-03-23,Manipur,0,0,0
+2020-03-23,Mizoram,0,0,0
+2020-03-23,Nagaland,0,0,0
+2020-03-23,Sikkim,0,0,0
+2020-03-23,Dadra and Nagar Haveli,0,0,0
+2020-03-23,Daman and Diu,0,0,0
+2020-03-23,Lakshadweep,0,0,0
+2020-03-24,Kerala,109,4,0
+2020-03-24,Maharashtra,107,0,2
+2020-03-24,Karnataka,41,3,1
+2020-03-24,Telangana,37,1,0
+2020-03-24,Uttar Pradesh,35,11,0
+2020-03-24,Gujarat,34,0,1
+2020-03-24,Rajasthan,32,3,0
+2020-03-24,Delhi,30,6,1
+2020-03-24,Haryana,30,11,0
+2020-03-24,Punjab,29,0,1
+2020-03-24,Tamil Nadu,18,1,1
+2020-03-24,Ladakh,13,0,0
+2020-03-24,West Bengal,9,0,1
+2020-03-24,Andhra Pradesh,8,0,0
+2020-03-24,Chandigarh,7,0,0
+2020-03-24,Madhya Pradesh,7,0,0
+2020-03-24,Jammu and Kashmir,6,0,0
+2020-03-24,Uttarakhand,4,0,0
+2020-03-24,Himachal Pradesh,3,0,1
+2020-03-24,Bihar,3,0,1
+2020-03-24,Odisha,2,0,0
+2020-03-24,Puducherry,1,0,0
+2020-03-24,Chhattisgarh,1,0,0
+2020-03-24,Manipur,1,0,0
+2020-03-24,Andaman and Nicobar Islands,0,0,0
+2020-03-24,Assam,0,0,0
+2020-03-24,Meghalaya,0,0,0
+2020-03-24,Tripura,0,0,0
+2020-03-24,Goa,0,0,0
+2020-03-24,Arunachal Pradesh,0,0,0
+2020-03-24,Jharkhand,0,0,0
+2020-03-24,Mizoram,0,0,0
+2020-03-24,Nagaland,0,0,0
+2020-03-24,Sikkim,0,0,0
+2020-03-24,Dadra and Nagar Haveli,0,0,0
+2020-03-24,Daman and Diu,0,0,0
+2020-03-24,Lakshadweep,0,0,0
+2020-03-25,Kerala,118,4,0
+2020-03-25,Maharashtra,122,1,2
+2020-03-25,Karnataka,51,3,1
+2020-03-25,Telangana,41,1,0
+2020-03-25,Gujarat,38,0,2
+2020-03-25,Uttar Pradesh,38,11,0
+2020-03-25,Rajasthan,38,3,0
+2020-03-25,Delhi,35,6,1
+2020-03-25,Haryana,31,11,0
+2020-03-25,Punjab,31,0,1
+2020-03-25,Tamil Nadu,26,1,1
+2020-03-25,Ladakh,13,0,0
+2020-03-25,West Bengal,9,0,1
+2020-03-25,Andhra Pradesh,10,1,0
+2020-03-25,Chandigarh,7,0,0
+2020-03-25,Madhya Pradesh,15,0,1
+2020-03-25,Jammu and Kashmir,11,1,0
+2020-03-25,Uttarakhand,5,0,0
+2020-03-25,Himachal Pradesh,3,0,1
+2020-03-25,Bihar,4,0,1
+2020-03-25,Odisha,2,0,0
+2020-03-25,Puducherry,1,0,0
+2020-03-25,Chhattisgarh,3,0,0
+2020-03-25,Manipur,1,0,0
+2020-03-25,Andaman and Nicobar Islands,0,0,0
+2020-03-25,Assam,0,0,0
+2020-03-25,Meghalaya,0,0,0
+2020-03-25,Tripura,0,0,0
+2020-03-25,Goa,3,0,0
+2020-03-25,Arunachal Pradesh,0,0,0
+2020-03-25,Jharkhand,0,0,0
+2020-03-25,Mizoram,1,0,0
+2020-03-25,Nagaland,0,0,0
+2020-03-25,Sikkim,0,0,0
+2020-03-25,Dadra and Nagar Haveli,0,0,0
+2020-03-25,Daman and Diu,0,0,0
+2020-03-25,Lakshadweep,0,0,0
+2020-03-26,Kerala,137,11,0
+2020-03-26,Maharashtra,125,1,3
+2020-03-26,Karnataka,55,3,2
+2020-03-26,Telangana,44,1,0
+2020-03-26,Gujarat,43,0,3
+2020-03-26,Uttar Pradesh,42,11,0
+2020-03-26,Rajasthan,40,3,0
+2020-03-26,Delhi,36,6,1
+2020-03-26,Punjab,33,0,1
+2020-03-26,Haryana,32,11,0
+2020-03-26,Tamil Nadu,29,1,1
+2020-03-26,Madhya Pradesh,20,0,1
+2020-03-26,Ladakh,13,0,0
+2020-03-26,Jammu and Kashmir,14,1,1
+2020-03-26,Andhra Pradesh,11,1,0
+2020-03-26,West Bengal,10,0,1
+2020-03-26,Chandigarh,7,0,0
+2020-03-26,Bihar,7,0,1
+2020-03-26,Chhattisgarh,6,0,0
+2020-03-26,Uttarakhand,5,0,0
+2020-03-26,Himachal Pradesh,3,0,1
+2020-03-26,Goa,3,0,0
+2020-03-26,Odisha,3,0,0
+2020-03-26,Puducherry,1,0,0
+2020-03-26,Manipur,1,0,0
+2020-03-26,Mizoram,1,0,0
+2020-03-26,Andaman and Nicobar Islands,1,0,0
+2020-03-26,Assam,0,0,0
+2020-03-26,Meghalaya,0,0,0
+2020-03-26,Tripura,0,0,0
+2020-03-26,Arunachal Pradesh,0,0,0
+2020-03-26,Jharkhand,0,0,0
+2020-03-26,Nagaland,0,0,0
+2020-03-26,Sikkim,0,0,0
+2020-03-26,Dadra and Nagar Haveli,0,0,0
+2020-03-26,Daman and Diu,0,0,0
+2020-03-26,Lakshadweep,0,0,0
+2020-03-27,Kerala,176,11,0
+2020-03-27,Maharashtra,156,19,4
+2020-03-27,Karnataka,64,5,3
+2020-03-27,Telangana,59,1,0
+2020-03-27,Uttar Pradesh,49,11,0
+2020-03-27,Rajasthan,50,3,0
+2020-03-27,Gujarat,47,0,3
+2020-03-27,Delhi,40,6,1
+2020-03-27,Punjab,38,1,1
+2020-03-27,Tamil Nadu,38,2,1
+2020-03-27,Haryana,33,11,0
+2020-03-27,Madhya Pradesh,29,0,2
+2020-03-27,Jammu and Kashmir,20,1,1
+2020-03-27,Ladakh,13,3,0
+2020-03-27,Andhra Pradesh,13,1,0
+2020-03-27,West Bengal,15,0,1
+2020-03-27,Bihar,9,0,1
+2020-03-27,Chandigarh,8,0,0
+2020-03-27,Chhattisgarh,6,0,0
+2020-03-27,Uttarakhand,5,0,0
+2020-03-27,Himachal Pradesh,3,1,1
+2020-03-27,Goa,3,0,0
+2020-03-27,Odisha,3,0,0
+2020-03-27,Andaman and Nicobar Islands,6,0,0
+2020-03-27,Puducherry,1,0,0
+2020-03-27,Manipur,1,0,0
+2020-03-27,Mizoram,1,0,0
+2020-03-27,Assam,0,0,0
+2020-03-27,Meghalaya,0,0,0
+2020-03-27,Tripura,0,0,0
+2020-03-27,Arunachal Pradesh,0,0,0
+2020-03-27,Jharkhand,0,0,0
+2020-03-27,Nagaland,0,0,0
+2020-03-27,Sikkim,0,0,0
+2020-03-27,Dadra and Nagar Haveli,0,0,0
+2020-03-27,Daman and Diu,0,0,0
+2020-03-27,Lakshadweep,0,0,0
+2020-03-28,Kerala,182,12,1
+2020-03-28,Maharashtra,186,25,6
+2020-03-28,Karnataka,81,5,3
+2020-03-28,Telangana,67,1,1
+2020-03-28,Uttar Pradesh,65,11,0
+2020-03-28,Rajasthan,54,3,0
+2020-03-28,Gujarat,55,0,4
+2020-03-28,Delhi,49,6,1
+2020-03-28,Punjab,38,1,1
+2020-03-28,Tamil Nadu,42,2,1
+2020-03-28,Haryana,35,11,0
+2020-03-28,Madhya Pradesh,39,0,2
+2020-03-28,Jammu and Kashmir,33,1,1
+2020-03-28,Ladakh,13,3,0
+2020-03-28,Andhra Pradesh,19,1,0
+2020-03-28,West Bengal,18,0,1
+2020-03-28,Bihar,11,0,1
+2020-03-28,Chandigarh,8,0,0
+2020-03-28,Chhattisgarh,7,0,0
+2020-03-28,Uttarakhand,6,1,0
+2020-03-28,Himachal Pradesh,3,2,1
+2020-03-28,Goa,3,0,0
+2020-03-28,Odisha,3,0,0
+2020-03-28,Andaman and Nicobar Islands,9,0,0
+2020-03-28,Puducherry,1,0,0
+2020-03-28,Manipur,1,0,0
+2020-03-28,Mizoram,1,0,0
+2020-03-28,Assam,0,0,0
+2020-03-28,Meghalaya,0,0,0
+2020-03-28,Tripura,0,0,0
+2020-03-28,Arunachal Pradesh,0,0,0
+2020-03-28,Jharkhand,0,0,0
+2020-03-28,Nagaland,0,0,0
+2020-03-28,Sikkim,0,0,0
+2020-03-28,Dadra and Nagar Haveli,0,0,0
+2020-03-28,Daman and Diu,0,0,0
+2020-03-28,Lakshadweep,0,0,0
+2020-03-29,Kerala,202,16,1
+2020-03-29,Maharashtra,203,25,7
+2020-03-29,Karnataka,83,5,3
+2020-03-29,Telangana,70,1,1
+2020-03-29,Uttar Pradesh,72,11,0
+2020-03-29,Rajasthan,59,3,0
+2020-03-29,Gujarat,63,1,5
+2020-03-29,Delhi,72,6,2
+2020-03-29,Punjab,38,1,1
+2020-03-29,Tamil Nadu,50,2,1
+2020-03-29,Haryana,35,11,0
+2020-03-29,Madhya Pradesh,39,0,2
+2020-03-29,Jammu and Kashmir,38,1,1
+2020-03-29,Ladakh,13,3,0
+2020-03-29,Andhra Pradesh,21,1,0
+2020-03-29,West Bengal,21,0,1
+2020-03-29,Bihar,15,0,1
+2020-03-29,Chandigarh,8,0,0
+2020-03-29,Chhattisgarh,7,0,0
+2020-03-29,Uttarakhand,7,1,0
+2020-03-29,Himachal Pradesh,3,2,1
+2020-03-29,Goa,5,0,0
+2020-03-29,Odisha,3,0,0
+2020-03-29,Andaman and Nicobar Islands,9,0,0
+2020-03-29,Puducherry,1,0,0
+2020-03-29,Manipur,1,0,0
+2020-03-29,Mizoram,1,0,0
+2020-03-29,Assam,0,0,0
+2020-03-29,Meghalaya,0,0,0
+2020-03-29,Tripura,0,0,0
+2020-03-29,Arunachal Pradesh,0,0,0
+2020-03-29,Jharkhand,0,0,0
+2020-03-29,Nagaland,0,0,0
+2020-03-29,Sikkim,0,0,0
+2020-03-29,Dadra and Nagar Haveli,0,0,0
+2020-03-29,Daman and Diu,0,0,0
+2020-03-29,Lakshadweep,0,0,0
+2020-03-30,Maharashtra,238,39,10
+2020-03-30,Kerala,234,20,1
+2020-03-30,Delhi,97,6,2
+2020-03-30,Uttar Pradesh,96,17,0
+2020-03-30,Karnataka,91,5,3
+2020-03-30,Rajasthan,79,3,0
+2020-03-30,Telangana,77,14,8
+2020-03-30,Gujarat,70,3,6
+2020-03-30,Tamil Nadu,67,4,1
+2020-03-30,Jammu and Kashmir,49,1,1
+2020-03-30,Madhya Pradesh,47,0,4
+2020-03-30,Punjab,41,1,3
+2020-03-30,Haryana,36,17,0
+2020-03-30,Andhra Pradesh,23,1,0
+2020-03-30,West Bengal,22,0,2
+2020-03-30,Bihar,15,0,1
+2020-03-30,Ladakh,13,3,0
+2020-03-30,Chandigarh,13,0,0
+2020-03-30,Andaman and Nicobar Islands,10,0,0
+2020-03-30,Chhattisgarh,8,0,0
+2020-03-30,Uttarakhand,7,2,0
+2020-03-30,Goa,5,0,0
+2020-03-30,Himachal Pradesh,3,1,1
+2020-03-30,Odisha,3,0,0
+2020-03-30,Manipur,1,0,0
+2020-03-30,Mizoram,1,0,0
+2020-03-30,Puducherry,1,0,0
+2020-03-30,Arunachal Pradesh,0,0,0
+2020-03-30,Assam,0,0,0
+2020-03-30,Dadra and Nagar Haveli,0,0,0
+2020-03-30,Daman and Diu,0,0,0
+2020-03-30,Jharkhand,0,0,0
+2020-03-30,Lakshadweep,0,0,0
+2020-03-30,Meghalaya,0,0,0
+2020-03-30,Nagaland,0,0,0
+2020-03-30,Sikkim,0,0,0
+2020-03-30,Tripura,0,0,0
+2020-03-31,Maharashtra,302,39,11
+2020-03-31,Kerala,241,24,2
+2020-03-31,Tamil Nadu,124,6,1
+2020-03-31,Uttar Pradesh,104,17,0
+2020-03-31,Karnataka,101,8,3
+2020-03-31,Delhi,120,6,2
+2020-03-31,Rajasthan,93,3,0
+2020-03-31,Telangana,92,14,8
+2020-03-31,Gujarat,74,5,6
+2020-03-31,Madhya Pradesh,66,0,4
+2020-03-31,Jammu and Kashmir,55,1,2
+2020-03-31,Haryana,43,17,0
+2020-03-31,Punjab,41,1,4
+2020-03-31,Andhra Pradesh,44,1,0
+2020-03-31,West Bengal,27,0,4
+2020-03-31,Bihar,21,0,1
+2020-03-31,Ladakh,13,3,0
+2020-03-31,Chandigarh,15,0,0
+2020-03-31,Andaman and Nicobar Islands,10,0,0
+2020-03-31,Chhattisgarh,9,2,0
+2020-03-31,Uttarakhand,7,2,0
+2020-03-31,Goa,5,0,0
+2020-03-31,Himachal Pradesh,3,1,1
+2020-03-31,Odisha,4,0,0
+2020-03-31,Manipur,1,0,0
+2020-03-31,Mizoram,1,0,0
+2020-03-31,Puducherry,1,0,0
+2020-03-31,Assam,1,0,0
+2020-03-31,Jharkhand,1,0,0
+2020-03-31,Arunachal Pradesh,0,0,0
+2020-03-31,Dadra and Nagar Haveli,0,0,0
+2020-03-31,Daman and Diu,0,0,0
+2020-03-31,Lakshadweep,0,0,0
+2020-03-31,Meghalaya,0,0,0
+2020-03-31,Nagaland,0,0,0
+2020-03-31,Sikkim,0,0,0
+2020-03-31,Tripura,0,0,0
+2020-04-01,Maharashtra,335,39,14
+2020-04-01,Kerala,265,26,2
+2020-04-01,Tamil Nadu,234,6,1
+2020-04-01,Delhi,152,6,2
+2020-04-01,Rajasthan,120,3,0
+2020-04-01,Uttar Pradesh,117,17,2
+2020-04-01,Andhra Pradesh,111,2,0
+2020-04-01,Karnataka,110,9,3
+2020-04-01,Telangana,97,14,6
+2020-04-01,Gujarat,87,5,6
+2020-04-01,Madhya Pradesh,86,0,6
+2020-04-01,Jammu and Kashmir,62,2,2
+2020-04-01,Punjab,46,1,4
+2020-04-01,Haryana,43,27,0
+2020-04-01,West Bengal,37,3,6
+2020-04-01,Bihar,24,0,1
+2020-04-01,Chandigarh,17,0,0
+2020-04-01,Ladakh,13,3,0
+2020-04-01,Assam,13,0,0
+2020-04-01,Andaman and Nicobar Islands,10,0,0
+2020-04-01,Chhattisgarh,9,2,0
+2020-04-01,Uttarakhand,7,2,0
+2020-04-01,Goa,5,0,0
+2020-04-01,Odisha,5,1,0
+2020-04-01,Himachal Pradesh,3,1,1
+2020-04-01,Puducherry,3,0,0
+2020-04-01,Jharkhand,1,0,0
+2020-04-01,Manipur,1,0,0
+2020-04-01,Mizoram,1,0,0
+2020-04-01,Arunachal Pradesh,0,0,0
+2020-04-01,Dadra and Nagar Haveli,0,0,0
+2020-04-01,Daman and Diu,0,0,0
+2020-04-01,Lakshadweep,0,0,0
+2020-04-01,Meghalaya,0,0,0
+2020-04-01,Nagaland,0,0,0
+2020-04-01,Sikkim,0,0,0
+2020-04-01,Tripura,0,0,0
+2020-04-02,Maharashtra,423,42,21
+2020-04-02,Kerala,286,28,2
+2020-04-02,Tamil Nadu,309,6,1
+2020-04-02,Delhi,293,8,4
+2020-04-02,Rajasthan,133,3,0
+2020-04-02,Uttar Pradesh,126,17,2
+2020-04-02,Andhra Pradesh,149,2,0
+2020-04-02,Karnataka,124,11,3
+2020-04-02,Telangana,154,17,9
+2020-04-02,Gujarat,88,10,7
+2020-04-02,Madhya Pradesh,107,0,8
+2020-04-02,Jammu and Kashmir,70,3,2
+2020-04-02,Punjab,47,1,5
+2020-04-02,Haryana,49,27,0
+2020-04-02,West Bengal,53,3,6
+2020-04-02,Bihar,29,3,1
+2020-04-02,Chandigarh,18,0,0
+2020-04-02,Ladakh,13,3,0
+2020-04-02,Assam,16,0,0
+2020-04-02,Andaman and Nicobar Islands,10,0,0
+2020-04-02,Chhattisgarh,9,3,0
+2020-04-02,Uttarakhand,10,2,0
+2020-04-02,Goa,5,0,0
+2020-04-02,Odisha,5,1,0
+2020-04-02,Himachal Pradesh,6,1,1
+2020-04-02,Puducherry,5,0,0
+2020-04-02,Jharkhand,2,0,0
+2020-04-02,Manipur,2,0,0
+2020-04-02,Mizoram,1,0,0
+2020-04-02,Arunachal Pradesh,1,0,0
+2020-04-02,Dadra and Nagar Haveli,0,0,0
+2020-04-02,Daman and Diu,0,0,0
+2020-04-02,Lakshadweep,0,0,0
+2020-04-02,Meghalaya,0,0,0
+2020-04-02,Nagaland,0,0,0
+2020-04-02,Sikkim,0,0,0
+2020-04-02,Tripura,0,0,0
+2020-04-03,Maharashtra,490,50,26
+2020-04-03,Tamil Nadu,411,6,1
+2020-04-03,Delhi,386,8,6
+2020-04-03,Kerala,295,42,2
+2020-04-03,Telangana,229,32,11
+2020-04-03,Rajasthan,179,3,0
+2020-04-03,Uttar Pradesh,174,17,2
+2020-04-03,Andhra Pradesh,164,2,1
+2020-04-03,Madhya Pradesh,154,0,8
+2020-04-03,Karnataka,128,11,4
+2020-04-03,Gujarat,95,10,9
+2020-04-03,Jammu and Kashmir,75,3,2
+2020-04-03,Haryana,58,27,0
+2020-04-03,West Bengal,53,3,6
+2020-04-03,Punjab,53,1,5
+2020-04-03,Bihar,31,3,1
+2020-04-03,Assam,23,0,0
+2020-04-03,Odisha,20,2,0
+2020-04-03,Chandigarh,18,0,0
+2020-04-03,Uttarakhand,16,2,0
+2020-04-03,Ladakh,14,3,0
+2020-04-03,Andaman and Nicobar Islands,10,0,0
+2020-04-03,Chhattisgarh,9,3,0
+2020-04-03,Himachal Pradesh,6,1,2
+2020-04-03,Goa,6,0,0
+2020-04-03,Puducherry,5,0,0
+2020-04-03,Jharkhand,2,0,0
+2020-04-03,Manipur,2,0,0
+2020-04-03,Mizoram,1,0,0
+2020-04-03,Arunachal Pradesh,1,0,0
+2020-04-03,Dadra and Nagar Haveli,0,0,0
+2020-04-03,Daman and Diu,0,0,0
+2020-04-03,Lakshadweep,0,0,0
+2020-04-03,Meghalaya,0,0,0
+2020-04-03,Nagaland,0,0,0
+2020-04-03,Sikkim,0,0,0
+2020-04-03,Tripura,0,0,0
+2020-04-04,Maharashtra,635,52,32
+2020-04-04,Tamil Nadu,485,8,3
+2020-04-04,Delhi,445,16,6
+2020-04-04,Kerala,306,50,2
+2020-04-04,Telangana,272,33,11
+2020-04-04,Uttar Pradesh,234,21,2
+2020-04-04,Rajasthan,200,25,1
+2020-04-04,Andhra Pradesh,192,2,1
+2020-04-04,Madhya Pradesh,179,0,11
+2020-04-04,Karnataka,144,11,4
+2020-04-04,Gujarat,108,10,10
+2020-04-04,Jammu and Kashmir,92,3,2
+2020-04-04,Haryana,84,29,0
+2020-04-04,Punjab,65,3,5
+2020-04-04,West Bengal,53,3,6
+2020-04-04,Bihar,32,3,1
+2020-04-04,Assam,26,0,0
+2020-04-04,Uttarakhand,22,2,0
+2020-04-04,Odisha,21,2,0
+2020-04-04,Chandigarh,18,3,0
+2020-04-04,Ladakh,14,3,0
+2020-04-04,Andaman and Nicobar Islands,10,0,0
+2020-04-04,Chhattisgarh,10,3,0
+2020-04-04,Goa,7,0,0
+2020-04-04,Himachal Pradesh,6,1,2
+2020-04-04,Puducherry,5,0,0
+2020-04-04,Jharkhand,2,0,0
+2020-04-04,Manipur,2,0,0
+2020-04-04,Mizoram,1,0,0
+2020-04-04,Arunachal Pradesh,1,0,0
+2020-04-04,Dadra and Nagar Haveli,0,0,0
+2020-04-04,Daman and Diu,0,0,0
+2020-04-04,Lakshadweep,0,0,0
+2020-04-04,Meghalaya,0,0,0
+2020-04-04,Nagaland,0,0,0
+2020-04-04,Sikkim,0,0,0
+2020-04-04,Tripura,0,0,0
+2020-04-05,Maharashtra,748,56,45
+2020-04-05,Tamil Nadu,571,8,5
+2020-04-05,Delhi,503,16,7
+2020-04-05,Kerala,314,56,2
+2020-04-05,Telangana,334,33,11
+2020-04-05,Uttar Pradesh,278,21,3
+2020-04-05,Rajasthan,266,25,1
+2020-04-05,Andhra Pradesh,252,5,1
+2020-04-05,Madhya Pradesh,193,3,13
+2020-04-05,Karnataka,151,11,4
+2020-04-05,Gujarat,128,21,11
+2020-04-05,Jammu and Kashmir,106,4,2
+2020-04-05,Haryana,90,29,0
+2020-04-05,Punjab,68,4,7
+2020-04-05,West Bengal,80,10,3
+2020-04-05,Bihar,32,3,1
+2020-04-05,Assam,26,0,0
+2020-04-05,Uttarakhand,26,4,0
+2020-04-05,Odisha,39,2,0
+2020-04-05,Chandigarh,18,5,0
+2020-04-05,Ladakh,14,3,0
+2020-04-05,Andaman and Nicobar Islands,10,0,0
+2020-04-05,Chhattisgarh,10,8,0
+2020-04-05,Goa,7,0,0
+2020-04-05,Himachal Pradesh,13,1,2
+2020-04-05,Puducherry,5,0,0
+2020-04-05,Jharkhand,3,0,0
+2020-04-05,Manipur,2,0,0
+2020-04-05,Mizoram,1,0,0
+2020-04-05,Arunachal Pradesh,1,0,0
+2020-04-05,Dadra and Nagar Haveli,0,0,0
+2020-04-05,Daman and Diu,0,0,0
+2020-04-05,Lakshadweep,0,0,0
+2020-04-05,Meghalaya,0,0,0
+2020-04-05,Nagaland,0,0,0
+2020-04-05,Sikkim,0,0,0
+2020-04-05,Tripura,0,0,0
+2020-04-06,Maharashtra,868,70,52
+2020-04-06,Tamil Nadu,621,13,5
+2020-04-06,Delhi,525,16,7
+2020-04-06,Kerala,327,59,2
+2020-04-06,Telangana,364,33,11
+2020-04-06,Uttar Pradesh,305,21,3
+2020-04-06,Rajasthan,301,25,2
+2020-04-06,Andhra Pradesh,303,5,3
+2020-04-06,Madhya Pradesh,256,11,15
+2020-04-06,Karnataka,163,20,4
+2020-04-06,Gujarat,146,22,12
+2020-04-06,Jammu and Kashmir,109,4,2
+2020-04-06,Haryana,110,29,2
+2020-04-06,Punjab,79,4,7
+2020-04-06,West Bengal,80,10,3
+2020-04-06,Bihar,32,9,1
+2020-04-06,Assam,26,0,0
+2020-04-06,Uttarakhand,31,4,0
+2020-04-06,Odisha,40,2,0
+2020-04-06,Chandigarh,18,5,0
+2020-04-06,Ladakh,14,10,0
+2020-04-06,Andaman and Nicobar Islands,10,0,0
+2020-04-06,Chhattisgarh,10,8,0
+2020-04-06,Goa,7,0,0
+2020-04-06,Himachal Pradesh,18,1,2
+2020-04-06,Puducherry,5,0,0
+2020-04-06,Jharkhand,4,0,0
+2020-04-06,Manipur,2,1,0
+2020-04-06,Mizoram,1,0,0
+2020-04-06,Arunachal Pradesh,1,0,0
+2020-04-06,Dadra and Nagar Haveli,1,0,0
+2020-04-06,Daman and Diu,0,0,0
+2020-04-06,Lakshadweep,0,0,0
+2020-04-06,Meghalaya,0,0,0
+2020-04-06,Nagaland,0,0,0
+2020-04-06,Sikkim,0,0,0
+2020-04-06,Tripura,1,0,0
+2020-04-07,Maharashtra,1018,79,64
+2020-04-07,Tamil Nadu,690,19,7
+2020-04-07,Delhi,576,20,9
+2020-04-07,Telangana,404,45,11
+2020-04-07,Rajasthan,343,25,2
+2020-04-07,Kerala,336,71,2
+2020-04-07,Uttar Pradesh,332,21,3
+2020-04-07,Andhra Pradesh,314,5,3
+2020-04-07,Madhya Pradesh,290,21,21
+2020-04-07,Karnataka,175,25,4
+2020-04-07,Gujarat,175,25,14
+2020-04-07,Haryana,143,31,2
+2020-04-07,Jammu and Kashmir,125,4,3
+2020-04-07,Punjab,99,14,8
+2020-04-07,West Bengal,91,13,3
+2020-04-07,Odisha,42,2,1
+2020-04-07,Bihar,38,15,1
+2020-04-07,Uttarakhand,31,4,0
+2020-04-07,Assam,28,0,0
+2020-04-07,Chandigarh,18,7,0
+2020-04-07,Himachal Pradesh,27,1,2
+2020-04-07,Ladakh,14,10,0
+2020-04-07,Andaman and Nicobar Islands,10,0,0
+2020-04-07,Chhattisgarh,10,9,0
+2020-04-07,Goa,7,0,0
+2020-04-07,Puducherry,5,1,0
+2020-04-07,Jharkhand,4,0,0
+2020-04-07,Manipur,2,1,0
+2020-04-07,Mizoram,1,0,0
+2020-04-07,Arunachal Pradesh,1,0,0
+2020-04-07,Dadra and Nagar Haveli,1,0,0
+2020-04-07,Tripura,1,0,0
+2020-04-07,Daman and Diu,0,0,0
+2020-04-07,Lakshadweep,0,0,0
+2020-04-07,Meghalaya,0,0,0
+2020-04-07,Nagaland,0,0,0
+2020-04-07,Sikkim,0,0,0
+2020-04-08,Maharashtra,1135,117,72
+2020-04-08,Tamil Nadu,738,21,8
+2020-04-08,Delhi,669,21,9
+2020-04-08,Telangana,453,45,11
+2020-04-08,Rajasthan,383,45,3
+2020-04-08,Kerala,345,84,2
+2020-04-08,Uttar Pradesh,361,31,4
+2020-04-08,Andhra Pradesh,348,6,3
+2020-04-08,Madhya Pradesh,341,25,24
+2020-04-08,Karnataka,181,28,5
+2020-04-08,Gujarat,186,25,16
+2020-04-08,Haryana,167,32,2
+2020-04-08,Jammu and Kashmir,158,6,3
+2020-04-08,Punjab,106,14,9
+2020-04-08,West Bengal,99,13,5
+2020-04-08,Odisha,42,2,1
+2020-04-08,Bihar,39,15,1
+2020-04-08,Uttarakhand,35,5,0
+2020-04-08,Assam,28,0,0
+2020-04-08,Chandigarh,18,7,0
+2020-04-08,Himachal Pradesh,27,2,2
+2020-04-08,Ladakh,14,10,0
+2020-04-08,Andaman and Nicobar Islands,11,0,0
+2020-04-08,Chhattisgarh,10,9,0
+2020-04-08,Goa,7,0,0
+2020-04-08,Puducherry,5,1,0
+2020-04-08,Jharkhand,4,0,0
+2020-04-08,Manipur,2,1,0
+2020-04-08,Mizoram,1,0,0
+2020-04-08,Arunachal Pradesh,1,0,0
+2020-04-08,Dadra and Nagar Haveli,1,0,0
+2020-04-08,Tripura,1,0,0
+2020-04-08,Daman and Diu,0,0,0
+2020-04-08,Lakshadweep,0,0,0
+2020-04-08,Meghalaya,0,0,0
+2020-04-08,Nagaland,0,0,0
+2020-04-08,Sikkim,0,0,0
+2020-04-09,Maharashtra,1364,125,98
+2020-04-09,Tamil Nadu,834,27,8
+2020-04-09,Delhi,720,25,12
+2020-04-09,Telangana,471,45,12
+2020-04-09,Rajasthan,463,60,3
+2020-04-09,Kerala,357,97,2
+2020-04-09,Uttar Pradesh,410,31,4
+2020-04-09,Andhra Pradesh,363,10,5
+2020-04-09,Madhya Pradesh,411,25,33
+2020-04-09,Karnataka,197,30,6
+2020-04-09,Gujarat,262,26,18
+2020-04-09,Haryana,170,32,2
+2020-04-09,Jammu and Kashmir,184,6,4
+2020-04-09,Punjab,130,18,10
+2020-04-09,West Bengal,103,16,5
+2020-04-09,Odisha,44,2,1
+2020-04-09,Bihar,58,15,1
+2020-04-09,Uttarakhand,35,5,0
+2020-04-09,Assam,29,0,0
+2020-04-09,Chandigarh,18,7,0
+2020-04-09,Himachal Pradesh,28,2,2
+2020-04-09,Ladakh,14,10,0
+2020-04-09,Andaman and Nicobar Islands,11,10,0
+2020-04-09,Chhattisgarh,18,9,0
+2020-04-09,Goa,7,0,0
+2020-04-09,Puducherry,5,1,0
+2020-04-09,Jharkhand,13,0,1
+2020-04-09,Manipur,2,1,0
+2020-04-09,Mizoram,1,0,0
+2020-04-09,Arunachal Pradesh,1,0,0
+2020-04-09,Dadra and Nagar Haveli,1,0,0
+2020-04-09,Tripura,1,0,0
+2020-04-09,Daman and Diu,0,0,0
+2020-04-09,Lakshadweep,0,0,0
+2020-04-09,Meghalaya,0,0,0
+2020-04-09,Nagaland,0,0,0
+2020-04-09,Sikkim,0,0,0
+2020-04-10,Maharashtra,1574,188,110
+2020-04-10,Tamil Nadu,911,44,9
+2020-04-10,Delhi,903,27,14
+2020-04-10,Telangana,487,45,12
+2020-04-10,Rajasthan,561,60,3
+2020-04-10,Kerala,364,124,2
+2020-04-10,Uttar Pradesh,433,32,4
+2020-04-10,Andhra Pradesh,381,10,6
+2020-04-10,Madhya Pradesh,451,25,36
+2020-04-10,Karnataka,207,34,6
+2020-04-10,Gujarat,378,33,19
+2020-04-10,Haryana,176,36,2
+2020-04-10,Jammu and Kashmir,207,6,4
+2020-04-10,Punjab,151,20,11
+2020-04-10,West Bengal,116,16,5
+2020-04-10,Odisha,50,12,1
+2020-04-10,Bihar,60,15,1
+2020-04-10,Uttarakhand,35,5,0
+2020-04-10,Assam,29,0,1
+2020-04-10,Chandigarh,19,7,0
+2020-04-10,Himachal Pradesh,28,2,2
+2020-04-10,Ladakh,15,11,0
+2020-04-10,Andaman and Nicobar Islands,11,10,0
+2020-04-10,Chhattisgarh,18,9,0
+2020-04-10,Goa,7,1,0
+2020-04-10,Puducherry,7,1,0
+2020-04-10,Jharkhand,14,0,1
+2020-04-10,Manipur,2,1,0
+2020-04-10,Mizoram,1,0,0
+2020-04-10,Arunachal Pradesh,1,0,0
+2020-04-10,Dadra and Nagar Haveli,1,0,0
+2020-04-10,Tripura,2,0,0
+2020-04-10,Daman and Diu,0,0,0
+2020-04-10,Lakshadweep,0,0,0
+2020-04-10,Meghalaya,0,0,0
+2020-04-10,Nagaland,0,0,0
+2020-04-10,Sikkim,0,0,0
+2020-04-11,Maharashtra,1761,208,127
+2020-04-11,Tamil Nadu,969,44,10
+2020-04-11,Delhi,1069,27,19
+2020-04-11,Telangana,503,96,14
+2020-04-11,Rajasthan,700,116,8
+2020-04-11,Kerala,373,143,2
+2020-04-11,Uttar Pradesh,452,45,5
+2020-04-11,Andhra Pradesh,405,10,6
+2020-04-11,Madhya Pradesh,529,38,40
+2020-04-11,Karnataka,215,39,6
+2020-04-11,Gujarat,468,44,22
+2020-04-11,Haryana,179,36,2
+2020-04-11,Jammu and Kashmir,224,6,4
+2020-04-11,Punjab,158,20,12
+2020-04-11,West Bengal,126,16,5
+2020-04-11,Odisha,54,12,1
+2020-04-11,Bihar,64,15,1
+2020-04-11,Uttarakhand,35,5,0
+2020-04-11,Assam,29,0,1
+2020-04-11,Chandigarh,19,7,0
+2020-04-11,Himachal Pradesh,32,8,2
+2020-04-11,Ladakh,15,11,0
+2020-04-11,Andaman and Nicobar Islands,11,10,0
+2020-04-11,Chhattisgarh,25,9,0
+2020-04-11,Goa,7,5,0
+2020-04-11,Puducherry,7,1,0
+2020-04-11,Jharkhand,17,0,1
+2020-04-11,Manipur,2,1,0
+2020-04-11,Mizoram,1,0,0
+2020-04-11,Arunachal Pradesh,1,0,0
+2020-04-11,Dadra and Nagar Haveli,1,0,0
+2020-04-11,Tripura,2,0,0
+2020-04-11,Daman and Diu,0,0,0
+2020-04-11,Lakshadweep,0,0,0
+2020-04-11,Meghalaya,0,0,0
+2020-04-11,Nagaland,0,0,0
+2020-04-11,Sikkim,0,0,0
+2020-04-12,Maharashtra,1982,217,149
+2020-04-12,Delhi,1154,28,24
+2020-04-12,Tamil Nadu,1075,50,11
+2020-04-12,Rajasthan,804,121,11
+2020-04-12,Madhya Pradesh,562,41,43
+2020-04-12,Telangana,531,103,16
+2020-04-12,Gujarat,516,44,24
+2020-04-12,Uttar Pradesh,483,45,5
+2020-04-12,Andhra Pradesh,420,12,7
+2020-04-12,Kerala,375,179,2
+2020-04-12,Jammu and Kashmir,245,6,4
+2020-04-12,Karnataka,232,54,6
+2020-04-12,Haryana,195,44,3
+2020-04-12,Punjab,170,23,12
+2020-04-12,West Bengal,134,19,7
+2020-04-12,Bihar,64,26,1
+2020-04-12,Odisha,54,12,1
+2020-04-12,Uttarakhand,35,5,0
+2020-04-12,Himachal Pradesh,32,12,2
+2020-04-12,Assam,29,0,1
+2020-04-12,Chhattisgarh,31,10,0
+2020-04-12,Chandigarh,21,7,0
+2020-04-12,Jharkhand,19,0,2
+2020-04-12,Ladakh,15,11,0
+2020-04-12,Andaman and Nicobar Islands,11,10,0
+2020-04-12,Goa,7,5,0
+2020-04-12,Puducherry,7,1,0
+2020-04-12,Manipur,2,1,0
+2020-04-12,Tripura,2,0,0
+2020-04-12,Mizoram,1,0,0
+2020-04-12,Arunachal Pradesh,1,0,0
+2020-04-12,Dadra and Nagar Haveli,1,0,0
+2020-04-12,Nagaland,1,0,0
+2020-04-12,Daman and Diu,0,0,0
+2020-04-12,Lakshadweep,0,0,0
+2020-04-12,Meghalaya,0,0,0
+2020-04-12,Sikkim,0,0,0
+2020-04-13,Maharashtra,2064,217,150
+2020-04-13,Delhi,1154,28,24
+2020-04-13,Tamil Nadu,1075,50,11
+2020-04-13,Rajasthan,815,121,11
+2020-04-13,Madhya Pradesh,562,41,44
+2020-04-13,Gujarat,538,47,26
+2020-04-13,Telangana,531,103,16
+2020-04-13,Uttar Pradesh,483,45,5
+2020-04-13,Andhra Pradesh,432,12,7
+2020-04-13,Kerala,375,179,2
+2020-04-13,Karnataka,247,59,6
+2020-04-13,Jammu and Kashmir,245,6,4
+2020-04-13,Haryana,195,44,3
+2020-04-13,Punjab,170,23,12
+2020-04-13,West Bengal,152,29,7
+2020-04-13,Bihar,65,26,1
+2020-04-13,Odisha,54,13,1
+2020-04-13,Uttarakhand,35,5,0
+2020-04-13,Himachal Pradesh,32,12,2
+2020-04-13,Chhattisgarh,31,10,0
+2020-04-13,Assam,30,0,1
+2020-04-13,Chandigarh,21,7,0
+2020-04-13,Jharkhand,19,0,2
+2020-04-13,Ladakh,15,11,0
+2020-04-13,Andaman and Nicobar Islands,11,10,0
+2020-04-13,Goa,7,5,0
+2020-04-13,Puducherry,7,1,0
+2020-04-13,Manipur,2,1,0
+2020-04-13,Tripura,2,0,0
+2020-04-13,Mizoram,1,0,0
+2020-04-13,Arunachal Pradesh,1,0,0
+2020-04-13,Dadra and Nagar Haveli,1,0,0
+2020-04-13,Nagaland,1,0,0
+2020-04-13,Daman and Diu,0,0,0
+2020-04-13,Lakshadweep,0,0,0
+2020-04-13,Meghalaya,0,0,0
+2020-04-13,Sikkim,0,0,0
+2020-04-14,Maharashtra,2684,259,178
+2020-04-14,Delhi,1561,31,30
+2020-04-14,Tamil Nadu,1204,81,12
+2020-04-14,Rajasthan,1005,147,11
+2020-04-14,Madhya Pradesh,741,64,53
+2020-04-14,Telangana,644,110,18
+2020-04-14,Gujarat,650,59,28
+2020-04-14,Uttar Pradesh,660,50,8
+2020-04-14,Andhra Pradesh,483,16,9
+2020-04-14,Kerala,386,211,2
+2020-04-14,Jammu and Kashmir,278,30,4
+2020-04-14,Karnataka,260,71,10
+2020-04-14,Haryana,198,55,3
+2020-04-14,West Bengal,190,36,7
+2020-04-14,Punjab,184,27,13
+2020-04-14,Bihar,66,29,1
+2020-04-14,Odisha,60,18,1
+2020-04-14,Uttarakhand,37,9,0
+2020-04-14,Himachal Pradesh,32,12,2
+2020-04-14,Chhattisgarh,33,10,0
+2020-04-14,Assam,32,0,1
+2020-04-14,Jharkhand,27,0,2
+2020-04-14,Chandigarh,21,7,0
+2020-04-14,Ladakh,17,12,0
+2020-04-14,Andaman and Nicobar Islands,11,10,0
+2020-04-14,Goa,7,5,0
+2020-04-14,Puducherry,7,1,0
+2020-04-14,Manipur,2,1,0
+2020-04-14,Tripura,2,0,0
+2020-04-14,Mizoram,1,0,0
+2020-04-14,Arunachal Pradesh,1,0,0
+2020-04-14,Dadra and Nagar Haveli,1,0,0
+2020-04-14,Nagaland,1,0,0
+2020-04-14,Meghalaya,1,0,0
+2020-04-14,Daman and Diu,0,0,0
+2020-04-14,Lakshadweep,0,0,0
+2020-04-14,Sikkim,0,0,0
+2020-04-15,Maharashtra,2916,295,187
+2020-04-15,Delhi,1561,31,30
+2020-04-15,Tamil Nadu,1242,118,14
+2020-04-15,Rajasthan,1046,147,11
+2020-04-15,Madhya Pradesh,938,64,53
+2020-04-15,Uttar Pradesh,735,57,11
+2020-04-15,Gujarat,766,64,33
+2020-04-15,Telangana,650,118,18
+2020-04-15,Andhra Pradesh,525,20,14
+2020-04-15,Kerala,387,218,2
+2020-04-15,Jammu and Kashmir,300,36,4
+2020-04-15,Karnataka,279,80,12
+2020-04-15,Haryana,204,57,3
+2020-04-15,West Bengal,213,37,7
+2020-04-15,Punjab,186,27,13
+2020-04-15,Bihar,70,29,1
+2020-04-15,Odisha,60,18,1
+2020-04-15,Uttarakhand,37,9,0
+2020-04-15,Chhattisgarh,33,17,0
+2020-04-15,Himachal Pradesh,35,13,2
+2020-04-15,Assam,32,2,1
+2020-04-15,Jharkhand,28,0,2
+2020-04-15,Chandigarh,21,9,0
+2020-04-15,Ladakh,17,12,0
+2020-04-15,Andaman and Nicobar Islands,11,10,0
+2020-04-15,Goa,7,6,0
+2020-04-15,Puducherry,7,1,0
+2020-04-15,Manipur,2,1,0
+2020-04-15,Tripura,2,1,0
+2020-04-15,Mizoram,1,0,0
+2020-04-15,Arunachal Pradesh,1,1,0
+2020-04-15,Dadra and Nagar Haveli,1,0,0
+2020-04-15,Nagaland,1,0,0
+2020-04-15,Meghalaya,7,0,1
+2020-04-15,Daman and Diu,0,0,0
+2020-04-15,Lakshadweep,0,0,0
+2020-04-15,Sikkim,0,0,0
+2020-04-16,Maharashtra,3202,300,194
+2020-04-16,Delhi,1640,52,38
+2020-04-16,Tamil Nadu,1267,180,15
+2020-04-16,Madhya Pradesh,1164,70,55
+2020-04-16,Rajasthan,1131,164,11
+2020-04-16,Gujarat,929,73,36
+2020-04-16,Uttar Pradesh,805,68,13
+2020-04-16,Telangana,700,187,18
+2020-04-16,Andhra Pradesh,534,20,14
+2020-04-16,Kerala,394,245,2
+2020-04-16,Karnataka,315,82,13
+2020-04-16,Jammu and Kashmir,314,38,4
+2020-04-16,West Bengal,231,42,10
+2020-04-16,Haryana,215,65,3
+2020-04-16,Punjab,197,29,14
+2020-04-16,Bihar,83,37,1
+2020-04-16,Odisha,60,19,1
+2020-04-16,Uttarakhand,37,9,0
+2020-04-16,Himachal Pradesh,35,16,2
+2020-04-16,Assam,34,5,1
+2020-04-16,Chhattisgarh,33,23,0
+2020-04-16,Jharkhand,29,0,2
+2020-04-16,Chandigarh,21,9,0
+2020-04-16,Ladakh,18,14,0
+2020-04-16,Andaman and Nicobar Islands,11,11,0
+2020-04-16,Goa,7,6,0
+2020-04-16,Puducherry,7,1,0
+2020-04-16,Meghalaya,9,0,1
+2020-04-16,Manipur,2,1,0
+2020-04-16,Tripura,2,1,0
+2020-04-16,Mizoram,1,0,0
+2020-04-16,Arunachal Pradesh,1,1,0
+2020-04-16,Dadra and Nagar Haveli,1,0,0
+2020-04-16,Nagaland,1,0,0
+2020-04-16,Daman and Diu,0,0,0
+2020-04-16,Lakshadweep,0,0,0
+2020-04-16,Sikkim,0,0,0
+2020-04-17,Maharashtra,3320,331,201
+2020-04-17,Delhi,1707,72,42
+2020-04-17,Tamil Nadu,1323,283,15
+2020-04-17,Rajasthan,1229,183,17
+2020-04-17,Madhya Pradesh,1310,70,69
+2020-04-17,Gujarat,1099,86,41
+2020-04-17,Uttar Pradesh,849,82,14
+2020-04-17,Telangana,766,187,18
+2020-04-17,Andhra Pradesh,572,35,14
+2020-04-17,Kerala,395,255,2
+2020-04-17,Karnataka,359,88,13
+2020-04-17,Jammu and Kashmir,328,42,5
+2020-04-17,West Bengal,255,51,10
+2020-04-17,Haryana,223,86,3
+2020-04-17,Punjab,211,30,14
+2020-04-17,Bihar,85,37,1
+2020-04-17,Odisha,60,21,1
+2020-04-17,Uttarakhand,40,9,0
+2020-04-17,Chhattisgarh,36,24,0
+2020-04-17,Himachal Pradesh,38,16,2
+2020-04-17,Assam,34,9,1
+2020-04-17,Jharkhand,32,0,2
+2020-04-17,Chandigarh,21,9,0
+2020-04-17,Ladakh,18,14,0
+2020-04-17,Andaman and Nicobar Islands,12,11,0
+2020-04-17,Meghalaya,9,0,1
+2020-04-17,Goa,7,6,0
+2020-04-17,Puducherry,7,1,0
+2020-04-17,Manipur,2,1,0
+2020-04-17,Tripura,2,1,0
+2020-04-17,Mizoram,1,0,0
+2020-04-17,Arunachal Pradesh,1,1,0
+2020-04-17,Nagaland,1,0,0
+2020-04-17,Dadra and Nagar Haveli,0,0,0
+2020-04-17,Daman and Diu,0,0,0
+2020-04-17,Lakshadweep,0,0,0
+2020-04-17,Sikkim,0,0,0
+2020-04-18,Maharashtra,3648,365,211
+2020-04-18,Delhi,1893,207,43
+2020-04-18,Tamil Nadu,1372,365,15
+2020-04-18,Rajasthan,1351,200,21
+2020-04-18,Madhya Pradesh,1402,127,69
+2020-04-18,Gujarat,1376,93,53
+2020-04-18,Uttar Pradesh,974,108,14
+2020-04-18,Telangana,809,186,18
+2020-04-18,Andhra Pradesh,603,42,16
+2020-04-18,Kerala,399,257,2
+2020-04-18,Karnataka,384,104,14
+2020-04-18,Jammu and Kashmir,341,51,5
+2020-04-18,West Bengal,287,55,12
+2020-04-18,Haryana,232,100,3
+2020-04-18,Punjab,234,31,16
+2020-04-18,Bihar,86,42,2
+2020-04-18,Odisha,61,24,1
+2020-04-18,Uttarakhand,42,9,0
+2020-04-18,Chhattisgarh,36,25,0
+2020-04-18,Himachal Pradesh,39,16,2
+2020-04-18,Assam,34,12,1
+2020-04-18,Jharkhand,32,0,2
+2020-04-18,Chandigarh,23,9,0
+2020-04-18,Ladakh,18,14,0
+2020-04-18,Andaman and Nicobar Islands,14,11,0
+2020-04-18,Meghalaya,11,0,1
+2020-04-18,Goa,7,6,0
+2020-04-18,Puducherry,7,1,0
+2020-04-18,Manipur,2,1,0
+2020-04-18,Tripura,2,1,0
+2020-04-18,Mizoram,1,0,0
+2020-04-18,Arunachal Pradesh,1,1,0
+2020-04-18,Nagaland,1,0,0
+2020-04-18,Dadra and Nagar Haveli,0,0,0
+2020-04-18,Daman and Diu,0,0,0
+2020-04-18,Lakshadweep,0,0,0
+2020-04-18,Sikkim,0,0,0
