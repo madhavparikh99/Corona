@@ -35,7 +35,7 @@ covid19 = {"success":True,
     }
 
 @app.route('/data/')
-def example():
+def developed_dataset():
     global covid19
     history_load = url_data['data']['history']
     f = open('datewise_data.csv', 'w', newline='')
@@ -71,11 +71,6 @@ def example():
     if covid19['developed']['Dataset'].lower() == "max 5 states":
         covid19['developed']['data'] = json.loads(df.to_json(orient="records"))
     return jsonify(covid19)
-
-@app.route('/nsd/<string:data>',methods=['GET'])
-def nsd(data):
-    print(type(data),data)
-    return data
 
 @app.route('/api/v1/resources/covid19/neighbouringdata/<string:sid>',methods=['GET'])
 def neighbouringdata(sid):
@@ -184,6 +179,7 @@ def home():
 
 @app.route('/api/v1/resources/covid19/all', methods=['GET'])
 def api_all():
+    developed_dataset()
     global covid19
     return jsonify(covid19)
 
@@ -197,28 +193,5 @@ def api_developed():
      
     # return jsonify(covid19)    
 
-
-@app.route('/api/v1/resources/covid19', methods=['GET'])
-def api_id():
-    # Check if an ID was provided as part of the URL.
-    # If ID is provided, assign it to a variable.
-    # If no ID is provided, display an error in the browser.
-    if 'id' in request.args:
-        id = int(request.args['id'])
-    else:
-        return "Error: No id field provided. Please specify an id."
-
-    # Create an empty list for our results
-    results = []
-
-    # Loop through the data and match results that fit the requested ID.
-    # IDs are unique, but other fields might return many results
-    for book in covid19:
-        if book['id'] == id:
-            results.append(book)
-
-    # Use the jsonify function from Flask to convert our list of
-    # Python dictionaries to the JSON format.
-    return jsonify(results)
 
 app.run(host = '0.0.0.0',port="3030")
