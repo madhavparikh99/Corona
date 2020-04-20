@@ -18,6 +18,8 @@ app.config["DEBUG"] = True
 
 url = "https://api.rootnet.in/covid19-in/unofficial/covid19india.org/statewise/history"
 url_data = json.loads(urlopen(url).read().decode("utf-8"))
+history_load = url_data['data']['history']
+
 
 # Create some test data for our catalog in the form of a list of dictionaries.
 covid19 = {"success":True,
@@ -27,17 +29,24 @@ covid19 = {"success":True,
             "url" : "https://api.rootnet.in/covid19-in/unofficial/covid19india.org/statewise/history"
         },
         "developed":
-           
-        {
-            "Dataset":"Max 5 States",
-            "data":""
+        {        
+            "states_confirmed" :
+            {
+                "Dataset":"Max 5 States confirmed",
+                "data":""
+            },
+            "states_recovered" :
+            {
+                "Dataset":"Max 5 States recovered",
+                "data":""
+            }
         }
     }
 
 @app.route('/data/')
 def developed_dataset():
+    # return covid19['developed']['states_confirmed']
     global covid19
-    history_load = url_data['data']['history']
     f = open('datewise_data.csv', 'w', newline='')
     csv_file = csv.writer(f)
     csv_file.writerow(["Date", "State", "Confirmed", "Recovered", "Deaths"]) #",Active"
@@ -66,16 +75,40 @@ def developed_dataset():
     df_inner = pd.merge(df2, df3, on='State', how='inner')
     df_inner['diff']=df_inner['Confirmed_x'] - df_inner['Confirmed_y']
     # print(df_inner)
-
     df=df_inner.nlargest(5,'diff')
-    if covid19['developed']['Dataset'].lower() == "max 5 states":
-        covid19['developed']['data'] = json.loads(df.to_json(orient="records"))
+
+    covid19['developed']['states_confirmed']['data'] = json.loads(df.to_json(orient="records"))
+
+    # Recovered Data
+    df1 = pd.read_csv('datewise_data.csv', parse_dates=['Date'])
+    df=df1.drop_duplicates()
+    date = df['Date'].unique()
+    date1 = date
+    date1.sort()
+    df2 = df[['Date', 'State', 'Recovered']].copy()
+    # print(df2)
+    df2=df2.loc[df2['Date'] == date1[-1]]
+    # print("=================================",df2)
+    df2=df2[['State', 'Recovered']].copy()
+    # print('************************************',df2)
+    df3 = df[['Date', 'State', 'Recovered']].copy()
+    df3=df3.loc[df3['Date'] == date1[-2]]
+    df3=df3[['State', 'Recovered']].copy()
+    #print(df3)
+    df_inner = pd.merge(df2, df3, on='State', how='inner')
+    print(df_inner)
+    df_inner['diff']=df_inner['Recovered_x'] - df_inner['Recovered_y']
+    # print(df_inner)
+    df=df_inner.nlargest(5,'diff')
+
+    covid19['developed']['states_recovered']['data'] = json.loads(df.to_json(orient="records"))
+
     return jsonify(covid19)
 
 @app.route('/api/v1/resources/covid19/neighbouringdata/<string:sid>',methods=['GET'])
 def neighbouringdata(sid):
     history_load = url_data['data']['history']
-    f = open('datewise_data_nsd.csv', 'w', newline='')
+    f = open('datewise_data.csv', 'w', newline='')
     csv_file = csv.writer(f)
     csv_file.writerow(["Date", "State", "Confirmed", "Recovered", "Deaths"])
     for history in history_load:
@@ -89,7 +122,7 @@ def neighbouringdata(sid):
 
 
     # Section 2 - Loading , and Selecting Data
-    df = pd.read_csv('datewise_data_nsd.csv', parse_dates=['Date'])
+    df = pd.read_csv('datewise_data.csv', parse_dates=['Date'])
 
     # Section 2.1 - Creating Datafaram for All State Neighboring States
     data = {'Maharashtra': pd.Series(['Gujarat', 'Telangana', 'Maharashtra', 'Delhi', 'Madhya Pradesh','Karnataka','Goa','Chhattisgarh']),
@@ -180,11 +213,11 @@ def home():
 @app.route('/api/v1/resources/covid19/all', methods=['GET'])
 def api_all():
     developed_dataset()
-    global covid19
     return jsonify(covid19)
 
 @app.route('/api/v1/resources/covid19/developed', methods=['GET'])
 def api_developed():
+    developed_dataset()
     jsonify(covid19)
     if covid19['success'] == True:
         return jsonify(covid19['developed'])
